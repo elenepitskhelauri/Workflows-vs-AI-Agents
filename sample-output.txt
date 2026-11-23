@@ -1,0 +1,24 @@
+
+1) FIXED WORKFLOW — Employee onboarding
+  1. Create account for Alex
+  2. Assign mandatory training
+  3. Send welcome email
+  4. Notify HR that onboarding is complete
+
+2) RULE-BASED AGENT PROTOTYPE — Customer support
+  Customer: I was charged twice
+  Decision: billing | Create a billing review ticket | Human review: True
+  Customer: I forgot my password
+  Decision: account access | Send account recovery instructions | Human review: False
+  Customer: Where is my delivery?
+  Decision: shipping | Request an order ID for tracking | Human review: False
+
+3) HYBRID WORKFLOW — Daily news digest (sample data)
+  • AI tools reshape office workflows
+    Source: https://example.com/sample-ai
+    Idea: Discuss how AI affects businesses: AI tools reshape office workflows
+  • New cloud infrastructure practices
+    Source: https://example.com/sample-cloud
+    Idea: Discuss how technology affects businesses: New cloud infrastructure practices
+
+Note: Example.com URLs are illustrative, not live news sources.
